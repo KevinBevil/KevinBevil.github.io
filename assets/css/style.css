@@ -1,0 +1,33 @@
+body {
+   width: 960px;
+   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+   
+   /* border-bottom: 5px solid #cccccc; */
+}
+h1 {
+   font-family: 'Georgia', Times, Times New Roman, serif;
+   display: inline;
+   float: left;
+   background-color: #4aaaa5;
+   color: white;
+   padding: 20px;
+}
+header p {
+   font-family: 'Georgia', Times, Times New Roman, serif;
+   display: inline;
+   float: right;
+   margin-right: 30px;
+   margin-top: 50px;
+   color: #777777;
+}
+header {
+   width: 960px;
+   border: 3px, black, solid;
+}
+section p {
+   color: white;
+   background-color: black;
+}
+
+
+
